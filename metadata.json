@@ -1,0 +1,8 @@
+{
+  "name": "Saudi Mabkhara AR Experience",
+  "description": "An interactive 3D/AR experience featuring a traditional Saudi Incense Burner (Mabkhara) with dynamic smoke effects.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
